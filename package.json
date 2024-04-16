@@ -1,0 +1,19 @@
+{
+  "name": "intro",
+  "version": "0.1.0",
+  "description": "Introduction à node JS, cours donnée au bootcamp FSJS 36 de la 3WA !!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Romain Fournier",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
